@@ -2,7 +2,7 @@
 
 <p align="center">
   <b>Software Developer · Python &amp; Full Stack</b><br>
-  I build web applications and document-automation pipelines that turn manual work into reliable software.
+  I build full-stack web applications (React front ends, Python back ends, SQL databases) and document automation that turns manual work into reliable software.
 </p>
 
 <p align="center">
@@ -17,8 +17,9 @@
 ### About me
 
 - 💼 Software Developer Trainee at **NuWare Systems LLP**, Bangalore (since Oct 2025)
-- 📄 Building document intelligence: OCR pipelines with **AWS Textract** and **Tesseract**, validation, and review tools
+- 🛠️ Currently building a full-stack **Appeals & Grievances (A&G)** module, from the UI to the API and database
 - 🌐 Full-stack web apps with **React**, **Flask / FastAPI** and **SQL**
+- 📄 Document automation: OCR pipelines with **AWS Textract** and **Tesseract**, validation and review tools
 - 🎓 B.E. Computer Science, with an institutional award for my CO-PO Attainment Tracking Tool (2024–25)
 - 🌱 Always learning, and happiest turning messy, manual processes into clean, automated systems
 
@@ -36,7 +37,6 @@ Also: SQL Server · AWS Textract · Tesseract OCR · Streamlit
 
 | Project | What it is | Built with |
 | --- | --- | --- |
-| [**Portfolio**](https://github.com/Kannan-24/Kannan) · [live](https://kannan-24.netlify.app) | My portfolio: pre-rendered for SEO, ⌘K command palette, dark/light themes, contact form backed by my own Python API | React, Vite, Python, Netlify |
 | [**Automated Transport Management System**](https://github.com/Kannan-24/atms) | Campus transport platform with live bus tracking, attendance monitoring and automated reports | Laravel, Tailwind CSS, MySQL |
 | [**Music Streaming UI**](https://github.com/Kannan-24/music-player) · [live](https://kannanmp.netlify.app) | Spotify-inspired, fully responsive music app interface built from reusable components | React, TypeScript, CSS |
 
@@ -44,6 +44,7 @@ Also: SQL Server · AWS Textract · Tesseract OCR · Streamlit
 
 Described in general terms; no client data or internal code.
 
+- **Appeals & Grievances (A&G) module** *(current)*: full-stack module covering the front end, back-end services and database.
 - **Insurance claims document automation**: OCR pipeline that splits incoming PDFs, extracts fields (AWS Textract with Tesseract fallback), validates and stores them in SQL Server, plus a review UI that shows each source page beside its extracted data.
 - **Healthcare quality analytics**: configuration-driven module where new quality measures are added as data instead of code, with faster dashboard queries and full audit logging.
 
