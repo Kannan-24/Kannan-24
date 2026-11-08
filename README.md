@@ -17,7 +17,6 @@
 ### About me
 
 - 💼 Software Developer Trainee at **NuWare Systems LLP**, Bangalore (since Oct 2025)
-- 🛠️ Currently building a full-stack **Appeals & Grievances (A&G)** module, from the UI to the API and database
 - 🌐 Full-stack web apps with **React**, **Flask / FastAPI** and **SQL**
 - 📄 Document automation: OCR pipelines with **AWS Textract** and **Tesseract**, validation and review tools
 - 🎓 B.E. Computer Science, with an institutional award for my CO-PO Attainment Tracking Tool (2024–25)
